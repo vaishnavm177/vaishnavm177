@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Mondokar</h1>
 <h3 align="center">A passionate SAP ABAP Consultant from India</h3> 
 
-<img align="right" alt="SAP ABAP" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdesigning-for-the-back-office-scene-01--72620612718475149%2F&psig=AOvVaw1LecKJNNcF_y6RWRjHkOQn&ust=1762146207879000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjy_bHY0pADFQAAAAAdAAAAABAd">
+<img align="right" alt="SAP ABAP" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdesigning-for-the-back-office-scene-01--72620612718475149%2F&psig=AOvVaw1LecKJNNcF_y6RWRjHkOQn&ust=1762146207879000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjy_bHY0pADFQAAAAAdAAAAABAd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavm177&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavm177" /> </p>
 
